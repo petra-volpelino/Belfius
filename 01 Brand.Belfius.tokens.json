@@ -3,89 +3,89 @@
     "primary": {
       "50": {
         "$type": "color",
-        "$value": "{color.rubis.50}"
+        "$value": "{brand.color.rubis.50}"
       },
       "100": {
         "$type": "color",
-        "$value": "{color.rubis.100}"
+        "$value": "{brand.color.rubis.100}"
       },
       "200": {
         "$type": "color",
-        "$value": "{color.rubis.200}"
+        "$value": "{brand.color.rubis.200}"
       },
       "300": {
         "$type": "color",
-        "$value": "{color.rubis.300}"
+        "$value": "{brand.color.rubis.300}"
       },
       "400": {
         "$type": "color",
-        "$value": "{color.rubis.400}"
+        "$value": "{brand.color.rubis.400}"
       },
       "500": {
         "$type": "color",
-        "$value": "{color.rubis.500}"
+        "$value": "{brand.color.rubis.500}"
       },
       "600": {
         "$type": "color",
-        "$value": "{color.rubis.600}"
+        "$value": "{brand.color.rubis.600}"
       },
       "700": {
         "$type": "color",
-        "$value": "{color.rubis.700}"
+        "$value": "{brand.color.rubis.700}"
       },
       "800": {
         "$type": "color",
-        "$value": "{color.rubis.800}"
+        "$value": "{brand.color.rubis.800}"
       },
       "900": {
         "$type": "color",
-        "$value": "{color.rubis.900}"
+        "$value": "{brand.color.rubis.900}"
       }
     },
     "onPrimary": {
       "$type": "color",
-      "$value": "{color.white}"
+      "$value": "{core.color.white}"
     },
     "secondary": {
       "50": {
         "$type": "color",
-        "$value": "{color.magenta.50}"
+        "$value": "{brand.color.magenta.50}"
       },
       "100": {
         "$type": "color",
-        "$value": "{color.magenta.100}"
+        "$value": "{brand.color.magenta.100}"
       },
       "200": {
         "$type": "color",
-        "$value": "{color.magenta.200}"
+        "$value": "{brand.color.magenta.200}"
       },
       "300": {
         "$type": "color",
-        "$value": "{color.magenta.300}"
+        "$value": "{brand.color.magenta.300}"
       },
       "400": {
         "$type": "color",
-        "$value": "{color.magenta.400}"
+        "$value": "{brand.color.magenta.400}"
       },
       "500": {
         "$type": "color",
-        "$value": "{color.magenta.500}"
+        "$value": "{brand.color.magenta.500}"
       },
       "600": {
         "$type": "color",
-        "$value": "{color.magenta.600}"
+        "$value": "{brand.color.magenta.600}"
       },
       "700": {
         "$type": "color",
-        "$value": "{color.magenta.700}"
+        "$value": "{brand.color.magenta.700}"
       },
       "800": {
         "$type": "color",
-        "$value": "{color.magenta.800}"
+        "$value": "{brand.color.magenta.800}"
       },
       "900": {
         "$type": "color",
-        "$value": "{color.magenta.900}"
+        "$value": "{brand.color.magenta.900}"
       }
     }
   },
@@ -179,15 +179,15 @@
     "brand": {
       "1": {
         "$type": "color",
-        "$value": "{color.rubis.500}"
+        "$value": "{brand.color.rubis.500}"
       },
       "2": {
         "$type": "color",
-        "$value": "{color.rubis.500}"
+        "$value": "{brand.color.rubis.500}"
       },
       "3": {
         "$type": "color",
-        "$value": "{color.magenta.500}"
+        "$value": "{brand.color.magenta.500}"
       }
     }
   }

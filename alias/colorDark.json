@@ -1,0 +1,306 @@
+{
+  "canvas": {
+    "base": {
+      "$type": "color",
+      "$value": "{core.color.grey.900}",
+      "$description": "Use as the default canvas for the UI."
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{core.color.grey.800}",
+      "$description": "Use as alternative canvas for the UI. Reserved for when you only want a hint of color."
+    }
+  },
+  "background": {
+    "base": {
+      "$type": "color",
+      "$value": "{core.color.grey.800}",
+      "$description": "Use as the default background of elements."
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{core.color.grey.700}",
+      "$description": "Use as subtle alternative for backgrounds."
+    },
+    "subtler": {
+      "$type": "color",
+      "$value": "{core.color.grey.700}",
+      "$description": "Use as subtler alternative for backgrounds."
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{core.color.grey.600}",
+      "$description": "Use for backgrounds in a disabled state."
+    },
+    "brand": {
+      "$type": "color",
+      "$value": "{color.primary.500}",
+      "$description": "Use for branded background, like buttons or widgets"
+    },
+    "brandSubtle": {
+      "$type": "color",
+      "$value": "{color.secondary.900}",
+      "$description": "Use for subtle branded background, like pills or widgets or on selected state"
+    },
+    "negative": {
+      "$type": "color",
+      "$value": "{core.color.negative.400}",
+      "$description": "Use for striking backgrounds communicating negative information, such in error buttons"
+    },
+    "negativeSubtle": {
+      "$type": "color",
+      "$value": "{core.color.warning.900}",
+      "$description": "Use for backgrounds communicating negative information, such in error alerts."
+    },
+    "positive": {
+      "$type": "color",
+      "$value": "{core.color.positive.400}",
+      "$description": "Use for striking backgrounds communicating positive information"
+    },
+    "positiveSubtle": {
+      "$type": "color",
+      "$value": "{core.color.positive.900}",
+      "$description": "Use for backgrounds communicating positive information, such in success alerts."
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{core.color.warning.400}",
+      "$description": "Use for striking backgrounds communicating warning information"
+    },
+    "warningSubtle": {
+      "$type": "color",
+      "$value": "{core.color.warning.900}",
+      "$description": "Use for backgrounds communicating warning information, such in warning alerts."
+    },
+    "scrim": {
+      "$type": "color",
+      "$value": "{core.color.transparent.black.32}",
+      "$description": "use for scrim, covering content behind modals or panels"
+    }
+  },
+  "gradient": {
+    "glass": {
+      "1": {
+        "$type": "color",
+        "$value": "{core.color.transparent.white.32}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{core.color.transparent.white.0}"
+      }
+    }
+  },
+  "content": {
+    "base": {
+      "$type": "color",
+      "$value": "{core.color.white}",
+      "$description": "Use to emphasise primary content, such as headers and long body copy"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{core.color.grey.200}",
+      "$description": "Use for supportive elements that give context to content that's close to it. think of icons, interactive elements etc"
+    },
+    "brand": {
+      "$type": "color",
+      "$value": "{brand.color.rubis.400}",
+      "$description": "Use for branded content, often in interactive context."
+    },
+    "brandBold": {
+      "$type": "color",
+      "$value": "{brand.color.rubis.300}",
+      "$description": "Use for branded content on brandSubtle background"
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{core.color.grey.500}",
+      "$description": "Use for content in a disabled state."
+    },
+    "onBrand": {
+      "$type": "color",
+      "$value": "{color.onPrimary}",
+      "$description": "Use for content on Brand color like the button or branded widgets"
+    },
+    "inverted": {
+      "$type": "color",
+      "$value": "{core.color.grey.900}",
+      "$description": "Use for inverse content on a bold background. Turns dark on dark mode to keep elements visible."
+    },
+    "alwaysWhite": {
+      "$type": "color",
+      "$value": "{core.color.white}",
+      "$description": "Use for content which should always stay white, eg content on a dark image"
+    },
+    "alwaysBlack": {
+      "$type": "color",
+      "$value": "{core.color.grey.900}",
+      "$description": "Use for content which should always stay black, eg content on a light image"
+    },
+    "negative": {
+      "$type": "color",
+      "$value": "{core.color.negative.400}",
+      "$description": "Indicates negative sentiment, for example on negative amounts, error states or destructive actions."
+    },
+    "negativeBold": {
+      "$type": "color",
+      "$value": "{core.color.negative.300}",
+      "$description": "Indicates negative sentiment placed, for example on negative amounts, error states or destructive actions."
+    },
+    "positive": {
+      "$type": "color",
+      "$value": "{core.color.positive.400}",
+      "$description": "Indicates positive sentiment, for example on increasing amounts or success states.This cannot be used for text for a11y reasons."
+    },
+    "positiveBold": {
+      "$type": "color",
+      "$value": "{core.color.positive.400}",
+      "$description": "Indicates positive sentiment, for example on increasing amounts or success states."
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{core.color.warning.400}",
+      "$description": "Indicates warning sentiment, for example on alerts.This cannot be used for text for a11y reasons."
+    },
+    "warningBold": {
+      "$type": "color",
+      "$value": "{core.color.warning.400}",
+      "$description": "Indicates warning sentiment background, for example on alerts."
+    },
+    "link": {
+      "$type": "color",
+      "$value": "{core.color.grey.200}",
+      "$description": "Use for links that appear inline text."
+    }
+  },
+  "border": {
+    "base": {
+      "$type": "color",
+      "$value": "{core.color.grey.600}",
+      "$description": "Use on standard borders."
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{core.color.grey.600}",
+      "$description": "Use on weak borders."
+    },
+    "bold": {
+      "$type": "color",
+      "$value": "{core.color.grey.400}"
+    },
+    "bolder": {
+      "$type": "color",
+      "$value": "{core.color.grey.200}"
+    },
+    "boldTranslucent": {
+      "$type": "color",
+      "$value": "{core.color.transparent.grey.32}"
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{core.color.grey.600}",
+      "$description": "Use for borders in a disabled state."
+    },
+    "brand": {
+      "$type": "color",
+      "$value": "{brand.color.rubis.400}",
+      "$description": "Use for branded borders, often in interactive context."
+    },
+    "brandSubtle": {
+      "$type": "color",
+      "$value": "{brand.color.rubis.700}",
+      "$description": "Use for subtle branded borders, often in interactive context."
+    },
+    "onBrand": {
+      "$type": "color",
+      "$value": "{color.onPrimary}",
+      "$description": "Use for borders on Brand color like the button or branded widgets"
+    },
+    "inverted": {
+      "$type": "color",
+      "$value": "{core.color.grey.900}",
+      "$description": "Use for inverse borders on a bold background. Turns dark on dark mode to keep elements visible."
+    },
+    "alwaysWhite": {
+      "$type": "color",
+      "$value": "{core.color.white}",
+      "$description": "Use for borders which should always stay white, eg borders on a dark image"
+    },
+    "alwaysBlack": {
+      "$type": "color",
+      "$value": "{core.color.grey.900}",
+      "$description": "Use for borders which should always stay black, eg borders on a light image"
+    },
+    "focus": {
+      "$type": "color",
+      "$value": "{core.color.focus.400}",
+      "$description": "Use for focus state"
+    },
+    "negative": {
+      "$type": "color",
+      "$value": "{core.color.negative.400}",
+      "$description": "Indicates negative sentiment on borders, for example on error states or destructive actions."
+    },
+    "positive": {
+      "$type": "color",
+      "$value": "{core.color.positive.400}",
+      "$description": "Indicates positive sentiment on borders, for example on success states."
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{core.color.warning.400}",
+      "$description": "Indicates warning sentiment on borders, for example on alerts."
+    }
+  },
+  "state": {
+    "link": {
+      "hover": {
+        "$type": "color",
+        "$value": "{brand.color.rubis.600}",
+        "$description": "Use for hover state of links that appear inline text."
+      },
+      "active": {
+        "$type": "color",
+        "$value": "{brand.color.rubis.700}",
+        "$description": "Use for pressed state of links that appear inline text."
+      }
+    },
+    "background": {
+      "base": {
+        "hover": {
+          "$type": "color",
+          "$value": "{core.color.transparent.white.12}",
+          "$description": "Use this state on bigger interactive components,  when there is no shadow as state effect"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{core.color.transparent.white.16}",
+          "$description": "Use this state on bigger interactive components,  when there is no shadow as state effect"
+        }
+      },
+      "brandSubtle": {
+        "hover": {
+          "$type": "color",
+          "$value": "{transparent.secondary.16}",
+          "$description": "Use this state on small interactive components adding a subtle branded emphasis, such as a secondary button, pill, navigation items, …"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{transparent.secondary.32}",
+          "$description": "Use this state on small interactive components adding a subtle branded emphasis, such as a secondary button, pill, navigation items, …"
+        }
+      },
+      "onColor": {
+        "hover": {
+          "$type": "color",
+          "$value": "{core.color.transparent.black.12}",
+          "$description": "Use this state on components brand or error backgrounds, such as primary or error button"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{core.color.transparent.black.24}",
+          "$description": "Use this state on components brand or error backgrounds, such as primary or error button"
+        }
+      }
+    }
+  }
+}

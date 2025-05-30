@@ -4,38 +4,16 @@
       "$type": "gradient",
       "$value": {
         "type": "linear",
-        "angle": 118,
-        "stops": [
-          {
-            "color": "{gradient.brand.1}",
-            "position": 0.15
-          },
-          {
-            "color": "{gradient.brand.2}",
-            "position": 0.38
-          },
-          {
-            "color": "{gradient.brand.3}",
-            "position": 0.85
-          }
-        ]
+        "angle": "118",
+        "stops": "[object Object],[object Object],[object Object]"
       }
     },
     "glass": {
       "$type": "gradient",
       "$value": {
         "type": "linear",
-        "angle": 180,
-        "stops": [
-          {
-            "color": "{gradient.glass.1}",
-            "position": 0
-          },
-          {
-            "color": "{gradient.glass.2}",
-            "position": 1
-          }
-        ]
+        "angle": "180",
+        "stops": "[object Object],[object Object]"
       }
     }
   }

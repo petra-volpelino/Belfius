@@ -3,10 +3,10 @@
     "lg": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.system}",
+        "fontFamily": "{fontFamilies.system}",
         "fontSize": "{fontSize.lg}",
-        "fontWeight": 400,
-        "letterSpacing": "{letter_spacing.none}",
+        "fontWeight": "{fontWeight.regular}",
+        "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.lg}",
         "textTransform": "none",
         "textDecoration": "none"
@@ -15,9 +15,9 @@
     "md": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.system}",
+        "fontFamily": "{fontFamilies.system}",
         "fontSize": "{fontSize.md}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.md}",
         "lineHeight": "{lineHeight.md}",
         "textTransform": "none",
@@ -27,9 +27,9 @@
     "md-bold": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.system}",
+        "fontFamily": "{fontFamilies.system}",
         "fontSize": "{fontSize.md}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.md}",
         "lineHeight": "{lineHeight.md}",
         "textTransform": "none",
@@ -39,9 +39,9 @@
     "sm": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.system}",
+        "fontFamily": "{fontFamilies.system}",
         "fontSize": "{fontSize.sm}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.md}",
         "lineHeight": "{lineHeight.sm}",
         "textTransform": "none",
@@ -51,9 +51,9 @@
     "sm-bold": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.system}",
+        "fontFamily": "{fontFamilies.system}",
         "fontSize": "{fontSize.sm}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.md}",
         "lineHeight": "{lineHeight.sm}",
         "textTransform": "none",
@@ -63,10 +63,10 @@
     "sm-mono": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.mono}",
+        "fontFamily": "{fontFamilies.mono}",
         "fontSize": "{fontSize.sm}",
-        "fontWeight": 700,
-        "letterSpacing": "{letter_spacing.none}",
+        "fontWeight": "{fontWeight.bold}",
+        "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.sm}",
         "textTransform": "none",
         "textDecoration": "none"
@@ -75,9 +75,9 @@
     "xs": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.system}",
+        "fontFamily": "{fontFamilies.system}",
         "fontSize": "{fontSize.xs}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.md}",
         "lineHeight": "{lineHeight.xs}",
         "textTransform": "none",
@@ -89,9 +89,9 @@
     "md": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.lg}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.md}",
         "textTransform": "none",
@@ -101,9 +101,9 @@
     "sm": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.md}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.sm}",
         "textTransform": "none",
@@ -113,9 +113,9 @@
     "xs": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.sm}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.xs}",
         "textTransform": "none",
@@ -125,9 +125,9 @@
     "2xs": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.xs}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.2xs}",
         "textTransform": "none",
@@ -137,9 +137,9 @@
     "3xs": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.2xs}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.3xs}",
         "textTransform": "none",
@@ -152,76 +152,76 @@
     "2xl": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.3xl}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.semibold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.2xl}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     },
     "xl": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.2xl}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.semibold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.xl}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       },
       "$description": "Page title"
     },
     "lg": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.xl}",
-        "fontWeight": 700,
-        "letterSpacing": "{letter_spacing.none}",
+        "fontWeight": "{fontWeight.bold}",
+        "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.lg}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       },
       "$description": "Section title"
     },
     "md": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.lg}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.md}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       },
       "$description": "Subsection title"
     },
     "sm": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.md}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.sm}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     },
     "xs": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.sm}",
-        "fontWeight": 700,
+        "fontWeight": "{fontWeight.bold}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.xs}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     }
   },
@@ -229,61 +229,61 @@
     "lg": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.6xl}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.5xl}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     },
     "md": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.5xl}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.4xl}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     },
     "sm": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.4xl}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.3xl}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     },
     "xs": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.3xl}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.2xl}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     },
     "2xs": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.brand}",
+        "fontFamily": "{fontFamilies.brand}",
         "fontSize": "{fontSize.2xl}",
-        "fontWeight": 400,
+        "fontWeight": "{fontWeight.regular}",
         "letterSpacing": "{letterSpacing.none}",
         "lineHeight": "{lineHeight.xl}",
         "textTransform": "none",
-        "textDecoration": "none"
+        "textDecoration": "{textDecoration.none}"
       }
     }
   }

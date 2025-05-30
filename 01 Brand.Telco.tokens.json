@@ -44,7 +44,7 @@
     },
     "onPrimary": {
       "$type": "color",
-      "$value": "{color.white}"
+      "$value": "{core.color.white}"
     },
     "secondary": {
       "50": {
