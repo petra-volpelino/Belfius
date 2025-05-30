@@ -1,0 +1,194 @@
+{
+  "color": {
+    "primary": {
+      "50": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.50}"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.400}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.600}"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.700}"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.800}"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.900}"
+      }
+    },
+    "onPrimary": {
+      "$type": "color",
+      "$value": "{color.white}"
+    },
+    "secondary": {
+      "50": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.50}"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.400}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.600}"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.700}"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.800}"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.900}"
+      }
+    }
+  },
+  "transparent": {
+    "primary": {
+      "0": {
+        "$type": "color",
+        "$value": "#5c2d9100"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#5c2d910a"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#5c2d9114"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#5c2d911f"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#5c2d9129"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "#5c2d9133"
+      },
+      "24": {
+        "$type": "color",
+        "$value": "#5c2d913d"
+      },
+      "32": {
+        "$type": "color",
+        "$value": "#5c2d9152"
+      },
+      "64": {
+        "$type": "color",
+        "$value": "#5c2d91a3"
+      },
+      "88": {
+        "$type": "color",
+        "$value": "#5c2d91e0"
+      }
+    },
+    "secondary": {
+      "0": {
+        "$type": "color",
+        "$value": "#5c2d9100"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#5c2d910a"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#5c2d9114"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#5c2d911f"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "#5c2d9129"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "#5c2d9133"
+      },
+      "24": {
+        "$type": "color",
+        "$value": "#5c2d913d"
+      },
+      "32": {
+        "$type": "color",
+        "$value": "#5c2d9152"
+      },
+      "64": {
+        "$type": "color",
+        "$value": "#5c2d91a3"
+      },
+      "88": {
+        "$type": "color",
+        "$value": "#5c2d91e0"
+      }
+    }
+  },
+  "gradient": {
+    "brand": {
+      "1": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.500}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.500}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{color.violet___Telco.600}"
+      }
+    }
+  }
+}

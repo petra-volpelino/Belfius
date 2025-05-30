@@ -1,0 +1,42 @@
+{
+  "gradient": {
+    "brand": {
+      "$type": "gradient",
+      "$value": {
+        "type": "linear",
+        "angle": 118,
+        "stops": [
+          {
+            "color": "{gradient.brand.1}",
+            "position": 0.15
+          },
+          {
+            "color": "{gradient.brand.2}",
+            "position": 0.38
+          },
+          {
+            "color": "{gradient.brand.3}",
+            "position": 0.85
+          }
+        ]
+      }
+    },
+    "glass": {
+      "$type": "gradient",
+      "$value": {
+        "type": "linear",
+        "angle": 180,
+        "stops": [
+          {
+            "color": "{gradient.glass.1}",
+            "position": 0
+          },
+          {
+            "color": "{gradient.glass.2}",
+            "position": 1
+          }
+        ]
+      }
+    }
+  }
+}

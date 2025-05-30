@@ -1,0 +1,219 @@
+{
+  "color": {
+    "rubis": {
+      "50": {
+        "$type": "color",
+        "$value": "#ffeef0"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffd8dd"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ffbac5"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#ff7e99"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#f60056"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#c30045",
+        "$description": "Ruby Red (Brand)"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#a5003d"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#820032"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#69002a"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#590024"
+      }
+    },
+    "red": {
+      "50": {
+        "$type": "color",
+        "$value": "#fef3f1"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fcdfdb"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#f9b2ae"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#f57277"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#d60f3c",
+        "$description": "Red (Brand)"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#b1143c"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#8c193c",
+        "$description": "Merlot (Brand)"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#770f29"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#590d20"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#4b0c1c"
+      }
+    },
+    "magenta": {
+      "50": {
+        "$type": "color",
+        "$value": "#fff5fa"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffe2f2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ffc3e4"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#ff75c2"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ff1a94"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#dc0078",
+        "$description": "Magenta (Brand)"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#bd006e"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#8a0055"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#660042"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#55003a"
+      }
+    },
+    "violet": {
+      "50": {
+        "$type": "color",
+        "$value": "#f6f0fc"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#e4cdfa"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#d5a8ff",
+        "$description": "Re=Bel (Brand)"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#c282fe"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ab57f4"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#9230e4"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#7825ba"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#642693"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#542478"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#4d236c"
+      }
+    },
+    "violet___Telco": {
+      "50": {
+        "$type": "color",
+        "$value": "#eae5e7"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#dad1e5"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#bba8d0"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#9b7fbb"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#7c56a6"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#5c2d91"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#523178"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#452f63"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#37254f"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#281f36"
+      }
+    }
+  }
+}

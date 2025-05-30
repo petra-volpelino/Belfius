@@ -1,0 +1,19 @@
+{
+  "tokenSetOrder": [
+    "core/color",
+    "core/dimension",
+    "core/font",
+    "brand/belfius",
+    "alias/light",
+    "alias/dark",
+    "alias/dimensions",
+    "alias/typography",
+    "color.styles.tokens",
+    "text.styles.tokens",
+    "00 Core Brand.Mode 1.tokens",
+    "01 Brand.Belfius.tokens",
+    "01 Brand.HeyBelfius.tokens",
+    "01 Brand.Re=Bel.tokens",
+    "01 Brand.Telco.tokens"
+  ]
+}

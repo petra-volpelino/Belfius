@@ -1,0 +1,290 @@
+{
+  "text": {
+    "lg": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.system}",
+        "fontSize": "{fontSize.lg}",
+        "fontWeight": 400,
+        "letterSpacing": "{letter_spacing.none}",
+        "lineHeight": "{lineHeight.lg}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "md": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.system}",
+        "fontSize": "{fontSize.md}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.md}",
+        "lineHeight": "{lineHeight.md}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "md-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.system}",
+        "fontSize": "{fontSize.md}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.md}",
+        "lineHeight": "{lineHeight.md}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "sm": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.system}",
+        "fontSize": "{fontSize.sm}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.md}",
+        "lineHeight": "{lineHeight.sm}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "sm-bold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.system}",
+        "fontSize": "{fontSize.sm}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.md}",
+        "lineHeight": "{lineHeight.sm}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "sm-mono": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.mono}",
+        "fontSize": "{fontSize.sm}",
+        "fontWeight": 700,
+        "letterSpacing": "{letter_spacing.none}",
+        "lineHeight": "{lineHeight.sm}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "xs": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.system}",
+        "fontSize": "{fontSize.xs}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.md}",
+        "lineHeight": "{lineHeight.xs}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    }
+  },
+  "label": {
+    "md": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.lg}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.md}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "sm": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.md}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.sm}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "xs": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.sm}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.xs}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "2xs": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.xs}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.2xs}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "3xs": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.2xs}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.3xs}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      },
+      "$description": "❌ don't use this unless really needed. this is too small"
+    }
+  },
+  "heading": {
+    "2xl": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.3xl}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.2xl}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "xl": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.2xl}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.xl}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      },
+      "$description": "Page title"
+    },
+    "lg": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.xl}",
+        "fontWeight": 700,
+        "letterSpacing": "{letter_spacing.none}",
+        "lineHeight": "{lineHeight.lg}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      },
+      "$description": "Section title"
+    },
+    "md": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.lg}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.md}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      },
+      "$description": "Subsection title"
+    },
+    "sm": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.md}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.sm}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "xs": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.sm}",
+        "fontWeight": 700,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.xs}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    }
+  },
+  "display": {
+    "lg": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.6xl}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.5xl}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "md": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.5xl}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.4xl}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "sm": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.4xl}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.3xl}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "xs": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.3xl}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.2xl}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    },
+    "2xs": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.brand}",
+        "fontSize": "{fontSize.2xl}",
+        "fontWeight": 400,
+        "letterSpacing": "{letterSpacing.none}",
+        "lineHeight": "{lineHeight.xl}",
+        "textTransform": "none",
+        "textDecoration": "none"
+      }
+    }
+  }
+}
