@@ -1,6 +1,6 @@
 {
-  "brand": {
-    "color": {
+  "color": {
+    "brand": {
       "rubis": {
         "50": {
           "$type": "color",
@@ -20,7 +20,7 @@
         },
         "400": {
           "$type": "color",
-          "$value": "#f60056"
+          "$value": "#FF0A5F"
         },
         "500": {
           "$type": "color",
@@ -37,11 +37,11 @@
         },
         "800": {
           "$type": "color",
-          "$value": "#69002a"
+          "$value": "#5C0025"
         },
         "900": {
           "$type": "color",
-          "$value": "#590024"
+          "$value": "#3D0019"
         }
       },
       "red": {
@@ -81,11 +81,11 @@
         },
         "800": {
           "$type": "color",
-          "$value": "#590d20"
+          "$value": "#500C1D"
         },
         "900": {
           "$type": "color",
-          "$value": "#4b0c1c"
+          "$value": "#350813"
         }
       },
       "magenta": {
@@ -124,11 +124,11 @@
         },
         "800": {
           "$type": "color",
-          "$value": "#660042"
+          "$value": "#5C003B"
         },
         "900": {
           "$type": "color",
-          "$value": "#55003a"
+          "$value": "#3D002A"
         }
       },
       "transparent": {
@@ -144,7 +144,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "4": {
             "$extensions": {
@@ -157,7 +157,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "8": {
             "$extensions": {
@@ -170,7 +170,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "12": {
             "$extensions": {
@@ -183,7 +183,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "16": {
             "$extensions": {
@@ -196,7 +196,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "20": {
             "$extensions": {
@@ -209,7 +209,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "24": {
             "$extensions": {
@@ -222,7 +222,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "32": {
             "$extensions": {
@@ -235,7 +235,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "64": {
             "$extensions": {
@@ -248,7 +248,7 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           },
           "88": {
             "$extensions": {
@@ -261,9 +261,13 @@
               }
             },
             "$type": "color",
-            "$value": "{brand.color.magenta.500}"
+            "$value": "{color.brand.magenta.500}"
           }
         }
+      },
+      "onBrand": {
+        "$type": "color",
+        "$value": "{color.white}"
       }
     }
   }
