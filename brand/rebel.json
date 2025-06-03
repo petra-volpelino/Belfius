@@ -45,5 +45,21 @@
         }
       }
     }
+  },
+  "gradient": {
+    "brand": {
+      "1": {
+        "$type": "color",
+        "$value": "{color.brand.rubis.600}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{color.brand.rubis.400}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{color.brand.violet.200}"
+      }
+    }
   }
 }

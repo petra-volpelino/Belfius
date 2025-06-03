@@ -1,93 +1,6 @@
 {
   "color": {
     "brand": {
-      "rubis": {
-        "50": {
-          "$type": "color",
-          "$value": "#ffeef0"
-        },
-        "100": {
-          "$type": "color",
-          "$value": "#ffd8dd"
-        },
-        "200": {
-          "$type": "color",
-          "$value": "#ffbac5"
-        },
-        "300": {
-          "$type": "color",
-          "$value": "#ff7e99"
-        },
-        "400": {
-          "$type": "color",
-          "$value": "#FF0A5F"
-        },
-        "500": {
-          "$type": "color",
-          "$value": "#c30045",
-          "$description": "Ruby Red (Brand)"
-        },
-        "600": {
-          "$type": "color",
-          "$value": "#a5003d"
-        },
-        "700": {
-          "$type": "color",
-          "$value": "#820032"
-        },
-        "800": {
-          "$type": "color",
-          "$value": "#5C0025"
-        },
-        "900": {
-          "$type": "color",
-          "$value": "#3D0019"
-        }
-      },
-      "red": {
-        "50": {
-          "$type": "color",
-          "$value": "#fef3f1"
-        },
-        "100": {
-          "$type": "color",
-          "$value": "#fcdfdb"
-        },
-        "200": {
-          "$type": "color",
-          "$value": "#f9b2ae"
-        },
-        "300": {
-          "$type": "color",
-          "$value": "#f57277"
-        },
-        "400": {
-          "$type": "color",
-          "$value": "#d60f3c",
-          "$description": "Red (Brand)"
-        },
-        "500": {
-          "$type": "color",
-          "$value": "#b1143c"
-        },
-        "600": {
-          "$type": "color",
-          "$value": "#8c193c",
-          "$description": "Merlot (Brand)"
-        },
-        "700": {
-          "$type": "color",
-          "$value": "#770f29"
-        },
-        "800": {
-          "$type": "color",
-          "$value": "#500C1D"
-        },
-        "900": {
-          "$type": "color",
-          "$value": "#350813"
-        }
-      },
       "magenta": {
         "50": {
           "$type": "color",
@@ -268,22 +181,6 @@
       "onBrand": {
         "$type": "color",
         "$value": "{color.white}"
-      }
-    }
-  },
-  "gradient": {
-    "brand": {
-      "1": {
-        "$type": "color",
-        "$value": "{color.brand.rubis.500}"
-      },
-      "2": {
-        "$type": "color",
-        "$value": "{color.brand.rubis.500}"
-      },
-      "3": {
-        "$type": "color",
-        "$value": "{color.brand.magenta.500}"
       }
     }
   }

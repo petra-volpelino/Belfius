@@ -4,17 +4,16 @@
     "core/dimension",
     "core/font",
     "brand/belfius",
+    "brand/heyBelfius",
     "brand/rebel",
     "alias/colorLight",
     "alias/colorDark",
     "alias/dimensions",
     "alias/typography",
+    "alias/dark",
+    "alias/light",
     "color.styles.tokens",
     "text.styles.tokens",
-    "00 Core Brand.Mode 1.tokens",
-    "01 Brand.Belfius.tokens",
-    "01 Brand.HeyBelfius.tokens",
-    "01 Brand.Re=Bel.tokens",
-    "01 Brand.Telco.tokens"
+    "00 Core Brand.Mode 1.tokens"
   ]
 }
